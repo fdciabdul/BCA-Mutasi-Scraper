@@ -5,7 +5,7 @@ NodeJS Package for scraping statement (mutasi) in BCA Internet Banking
 
 Library ini hasil modif dari https://github.com/apriady/nodejs-bca-scraper
 
-Kenapa saya modif ? karna yang dimodif adalah internet banking versi mobile dan tidak ada nilai saldo akhir pada mutasi nya
+Kenapa saya modif ? karna file originalnya  adalah internet banking versi mobile dan tidak ada nilai saldo akhir pada mutasi nya
 
 
 ## Cara Install
