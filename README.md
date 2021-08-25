@@ -21,7 +21,7 @@ npm install --save mutasi-bca
 atau
 
 ```bash
-yarn add mutasi-bca
+npm install https://github.com/fdciabdul/BCA-Mutasi-Scraper
 ```
 
 ## Penggunaan
