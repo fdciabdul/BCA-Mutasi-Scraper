@@ -1,0 +1,47 @@
+{
+  "name": "mutasi-bca",
+  "version": "1.0.1",
+  "description": "Plugin untuk mendapatkan saldo terakhir dan mutasi rekening BCA via klikbca tanpa menggunakan official API dari Bank BCA.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apriady/nodejs-bca-scraper.git"
+  },
+  "keywords": [
+    "bankbca",
+    "klikbca",
+    "bca",
+    "saldo",
+    "mutasi",
+    "rekening"
+  ],
+  "main": "index.js",
+  "author": "Abdul Muttaqin <achmad.apriady@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "html-to-text": "^8.0.0",
+    "moment": "^2.24.0",
+    "request": "^2.88.0",
+    "request-promise-native": "^1.0.7"
+  },
+  "devDependencies": {
+    "eslint": "5.3.0",
+    "eslint-config-airbnb": "17.1.0",
+    "eslint-config-prettier": "^6.0.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-jsx-a11y": "^6.1.1",
+    "eslint-plugin-prettier": "^3.1.0",
+    "eslint-plugin-react": "^7.11.0",
+    "prettier": "^1.18.2"
+  },
+  "bugs": {
+    "url": "https://github.com/apriady/nodejs-bca-scraper/issues"
+  },
+  "homepage": "https://github.com/apriady/nodejs-bca-scraper#readme",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "node test"
+  }
+}
