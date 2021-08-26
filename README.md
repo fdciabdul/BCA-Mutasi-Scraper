@@ -8,7 +8,7 @@ Library ini hasil modif dari https://github.com/apriady/nodejs-bca-scraper
 Kenapa saya modif ? karna file originalnya  adalah internet banking versi mobile dan tidak ada nilai saldo akhir pada mutasi nya
 
 
-# nodejs-bca-scraper
+# BCA-Mutasi-Scraper
 
 Plugin untuk membantu anda mendapatkan informasi saldo terakhir rekening BCA anda serta mutasi rekening BCA anda pada hari itu melalui KlikBCA.
 
