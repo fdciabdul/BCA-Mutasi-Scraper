@@ -17,7 +17,7 @@
     "array.prototype.flat": "^1.2.4",
     "ast-types-flow": "^0.0.7",
     "argparse": "^1.0.10",
-    "ajv": "^6.12.6",
+    "ajv": "^8.0.0",
     "asynckit": "^0.4.0",
     "axe-core": "^4.3.3",
     "aws4": "^1.11.0",
