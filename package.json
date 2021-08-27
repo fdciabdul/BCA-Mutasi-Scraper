@@ -9,7 +9,7 @@
   "dependencies": {
     "acorn-jsx": "^5.3.2",
     "ajv-keywords": "^3.5.2",
-    "ansi-regex": "^3.0.0",
+    "ansi-regex": "^6.0.0",
     "acorn": "^6.4.2",
     "ansi-escapes": "^3.2.0",
     "ansi-styles": "^3.2.1",
