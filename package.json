@@ -249,7 +249,7 @@
     "signal-exit": "^3.0.3",
     "spdx-license-ids": "^3.0.10",
     "sprintf-js": "^1.0.3",
-    "ret": "^0.1.15",
+    "ret": "^0.4.0",
     "stealthy-require": "^1.1.1",
     "sshpk": "^1.16.1",
     "string-width": "^2.1.1",
