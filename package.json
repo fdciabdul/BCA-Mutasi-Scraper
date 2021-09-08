@@ -156,7 +156,7 @@
     "jsprim": "^1.4.1",
     "is-resolvable": "^1.1.0",
     "json-stringify-safe": "^5.0.1",
-    "json-schema-traverse": "^0.4.1",
+    "json-schema-traverse": "^0.5.0",
     "jsx-ast-utils": "^3.2.0",
     "levn": "^0.3.0",
     "load-json-file": "^4.0.0",
