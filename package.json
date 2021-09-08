@@ -121,7 +121,7 @@
     "has-flag": "^3.0.0",
     "he": "^1.2.0",
     "html-to-text": "^8.0.0",
-    "iconv-lite": "^0.4.24",
+    "iconv-lite": "^0.6.0",
     "ignore": "^4.0.6",
     "has": "^1.0.3",
     "http-signature": "^1.2.0",
