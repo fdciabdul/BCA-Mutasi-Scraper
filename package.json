@@ -132,7 +132,7 @@
     "eslint-plugin-react": "^7.24.0",
     "is-bigint": "^1.0.4",
     "hosted-git-info": "^2.8.9",
-    "is-arrayish": "^0.2.1",
+    "is-arrayish": "^0.3.0",
     "is-core-module": "^2.6.0",
     "is-boolean-object": "^1.1.2",
     "internal-slot": "^1.0.3",
