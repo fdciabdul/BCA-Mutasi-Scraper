@@ -192,7 +192,7 @@
     "object.entries": "^1.1.4",
     "object.assign": "^4.1.2",
     "object.fromentries": "^2.0.4",
-    "optionator": "^0.8.3",
+    "optionator": "^0.9.0",
     "p-locate": "^2.0.0",
     "parse-json": "^4.0.0",
     "onetime": "^2.0.1",
