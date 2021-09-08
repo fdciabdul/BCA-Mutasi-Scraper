@@ -227,7 +227,7 @@
     "path-parse": "^1.0.7",
     "regexpp": "^2.0.1",
     "request": "^2.88.2",
-    "randexp": "^0.4.6",
+    "randexp": "^0.5.0",
     "request-promise-core": "^1.1.4",
     "resolve": "^1.20.0",
     "require-uncached": "^1.0.3",
