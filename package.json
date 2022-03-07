@@ -149,7 +149,7 @@
     "is-typedarray": "^1.0.0",
     "isstream": "^0.1.2",
     "is-fullwidth-code-point": "^2.0.0",
-    "json-schema": "^0.2.3",
+    "json-schema": "^0.4.0",
     "json-parse-better-errors": "^1.0.2",
     "json-stable-stringify-without-jsonify": "^1.0.1",
     "json5": "^1.0.1",
